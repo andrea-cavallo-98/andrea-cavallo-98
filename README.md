@@ -1,4 +1,11 @@
-### Hi there 👋
+### 👋 Hi there, I'm Andrea
+
+I am a Master of Science student at Politecnico di Torino
+
+- :books: I'm currently studying Computer Engineering, Artificial Intelligence and Data Analytics 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/andrea-cavallo-98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andrea-cavallo-6a619a1a8/)  
 
 <!--
 **andrea-cavallo-98/andrea-cavallo-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
