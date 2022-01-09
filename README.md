@@ -2,8 +2,8 @@
 
 I am a Master of Science student at Politecnico di Torino
 
-- :books: I'm currently studying Computer Engineering, Artificial Intelligence and Data Analytics 
-
+- :books: I'm currently studying Computer Engineering, Machine Learning and Deep Learning
+- :robot: I'm interested in Artificial Intelligence and all its applications
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/andrea-cavallo-98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andrea-cavallo-6a619a1a8/)  
 
