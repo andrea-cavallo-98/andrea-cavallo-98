@@ -5,8 +5,15 @@ I am a Master of Science student at Politecnico di Torino
 - :books: I'm currently studying Computer Engineering, Machine Learning and Deep Learning
 - :robot: I'm interested in Artificial Intelligence and all its applications
 
+<!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/andrea-cavallo-98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andrea-cavallo-6a619a1a8/)  
-
+-->
+---
+[<img src="https://user-images.githubusercontent.com/79795245/151543715-d76e1de6-6a81-417d-ad77-977a104634da.png" width="50" height="50">][1]
+[<img src="https://user-images.githubusercontent.com/79795245/151551760-cee3483f-8695-41d2-a35b-d746844c7608.png" width="50" height="50">][2]
+---
+[1]: https://www.linkedin.com/in/andrea-cavallo-6a619a1a8/
+[2]: https://github.com/andrea-cavallo-98
 <!--
 **andrea-cavallo-98/andrea-cavallo-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
