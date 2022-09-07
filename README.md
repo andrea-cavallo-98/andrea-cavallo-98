@@ -9,7 +9,7 @@ I am a Master of Science student at Politecnico di Torino
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/andrea-cavallo-98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andrea-cavallo-6a619a1a8/)  
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrea-cavallo-98&exclude_repo=Software-Engineering-Project&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/andrea-cavallo-98)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrea-cavallo-98&exclude_repo=Software-Engineering-Project,near-app&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/andrea-cavallo-98)
 
 ---
 [<img src="https://user-images.githubusercontent.com/79795245/151543715-d76e1de6-6a81-417d-ad77-977a104634da.png" width="50" height="50">][1]
