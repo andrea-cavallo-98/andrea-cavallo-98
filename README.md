@@ -19,11 +19,10 @@
 [<img src="https://cdn3.iconfinder.com/data/icons/basic-ui-elements-2-4-filled-outline-45/512/Basic_UI_Elements_2.4_-_Filled_Outline_-_45-47-256.png" width="50" height="50">][3]
 ---
 [1]: https://www.linkedin.com/in/andrea-cavallo-6a619a1a8/
-[2]: https://andrea-cavallo-98.github.io/
-[3]: https://scholar.google.com/citations?user=rzuJ5jMAAAAJ&hl=it
+[2]: https://scholar.google.com/citations?user=rzuJ5jMAAAAJ&hl=it
 <!--
 **andrea-cavallo-98/andrea-cavallo-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[2]: https://andrea-cavallo-98.github.io/
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
