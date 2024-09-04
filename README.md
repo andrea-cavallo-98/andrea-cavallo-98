@@ -15,7 +15,6 @@
 
 ---
 [<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" width="50" height="50">][1]
-[<img src="https://cdn2.iconfinder.com/data/icons/top-search/128/_web_Internet_network_www_communication_global_worldwide-512.png" width="50" height="50">][2]
 [<img src="https://cdn3.iconfinder.com/data/icons/basic-ui-elements-2-4-filled-outline-45/512/Basic_UI_Elements_2.4_-_Filled_Outline_-_45-47-256.png" width="50" height="50">][3]
 ---
 [1]: https://www.linkedin.com/in/andrea-cavallo-6a619a1a8/
@@ -23,6 +22,7 @@
 <!--
 **andrea-cavallo-98/andrea-cavallo-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [2]: https://andrea-cavallo-98.github.io/
+[<img src="https://cdn2.iconfinder.com/data/icons/top-search/128/_web_Internet_network_www_communication_global_worldwide-512.png" width="50" height="50">][2]
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
