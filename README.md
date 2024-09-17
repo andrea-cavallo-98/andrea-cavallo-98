@@ -1,6 +1,8 @@
-### 👋 Hi there, I'm Andrea
+### 👋 Hi there!
 
-- 📚 I am a PhD student at TU Delft (🇳🇱) focusing on Learning and Processing over dynamic graphs.
+- 📚 I am a PhD student at TU Delft (🇳🇱), where I work on learning and processing over
+    - :chart_with_upwards_trend: time series and dynamic graphs :chart_with_downwards_trend:
+    - :small_red_triangle: higher-order networks and topologies :small_red_triangle_down:
 
 - 🕐 Previously, I worked as a Research Assistant at Politecnico di Torino (🇮🇹), where I applied Graph Machine Learning for anomaly detection on computer networks. I was also an intern at the Huawei Munich Research Center (🇩🇪), where I studied Graph Neural Networks on heterophilous graphs.
 
